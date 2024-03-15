@@ -19,7 +19,7 @@
             display: inline-block;
             width: 60%;
             padding-left: 136px;
-            margin-top: 25%;
+            margin-top: 80px;
           }
 
           .container-right {
@@ -36,7 +36,7 @@
           img {
             position: relative;
               right:130px ;
-              top: 25%;
+              top: 100px;
           
           }
   h1 {
@@ -116,7 +116,7 @@ header {
 @media screen and (max-width: 900px) {
   .container-left {
 width: 100%;
-height: 50%;
+height: 20%;
 padding: 0;
 margin: 0;
   }
